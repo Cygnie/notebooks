@@ -3,7 +3,7 @@
 ![image](https://media.istockphoto.com/vectors/data-analysis-concept-vector-banner-illustration-vector-id1321230055?k=20&m=1321230055&s=612x612&w=0&h=4FqbjHF64W7dvKhnpjOszHiAK50XatodvnHYjLoPeEg= )
 
 ### The main goal here is to estimate data scientist salaries based on the information provided.
-### You can also find the same project as a end-to-end project on [this link.](https://github.com/Cygnie/data-scientist-salary-prediction).
+### You can also find the same project as a end-to-end project on [this link](https://github.com/Cygnie/data-scientist-salary-prediction).
 
 # Dataset 
 
