@@ -1,4 +1,4 @@
-# Data Scientist Salary Prediction
+# Data Scientist Salary Prediction Notebook
 
 ![image](https://media.istockphoto.com/vectors/data-analysis-concept-vector-banner-illustration-vector-id1321230055?k=20&m=1321230055&s=612x612&w=0&h=4FqbjHF64W7dvKhnpjOszHiAK50XatodvnHYjLoPeEg= )
 
