@@ -15,5 +15,7 @@ You can also find the same project as a [end-to-end project](https://github.com/
 * Download the Transformers model manually: In this project I chose **DistilBert**
 * https://huggingface.co/models
 
+## **You can find the Colab link in the notebook. If you run the Inference part, you can test the model with Gradio GUI.**
+
 # Author
 * [Furkan CEYRAN](https://github.com/Cygnie)
