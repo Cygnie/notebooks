@@ -1,4 +1,4 @@
-# Book Genre Classification
+# Credit Card Fraud Detection
 ![image](https://user-images.githubusercontent.com/75915883/198895837-f9332599-920c-476c-afca-4afbb7b0335b.png)
 
 **The main aim here is to predict the genre of the book based on the synopsis of the book.**
